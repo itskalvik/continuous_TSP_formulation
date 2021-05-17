@@ -3,4 +3,4 @@ Salesperson Problem in PyTorch. Change num_nodes to the number of nodes the
 TSP should contain and epochs to an appropriate number that is enough for the
 model to converge.
 
-[Project Website](https://kdkalvik.github.io/continuous_TSP_formulation/)
+[Project-Website](https://kdkalvik.github.io/continuous_TSP_formulation/)
